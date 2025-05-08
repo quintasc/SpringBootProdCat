@@ -1,3 +1,2 @@
 # SpringBootProdCat
-Ejemplo de API REST con SpringBoot
-Carmen Quintás
+Ejemplo de API REST con SpringBoot usando ORM (JPA/HIBERNATE)
